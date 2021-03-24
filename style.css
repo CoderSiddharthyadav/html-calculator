@@ -22,8 +22,8 @@ input[type="button"]{
 }
 .a{
     background-color:yellow;
-     margin-left: 300px;
-     width: 435px;
+     
+     width: 500px;
      height: 682px;
      padding:2px 2px 2px 2px;
      border: navy groove 20px;
