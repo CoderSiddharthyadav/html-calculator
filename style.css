@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }   
+input[type="button"]{
+    width: 75px;
+    height: 75px;
+    font-size: 50px;
+    background-color: black;
+    color: ivory;
+    border: none;
+    cursor: pointer;
+}
+
+#nice{
+    background-color:red; 
+    width:75px;
+    font-size: 35px;
+    cursor: pointer;
+
+}
+.a{
+    background-color:yellow;
+     margin-left: 400px;
+     width: 435px;
+     height: 682px;
+     padding:2px 2px 2px 2px;
+     border: navy groove 20px;
+}
+@media screen and (min-width:400){
+    .a{
+        width: 400;
+        height: 700;
+    }
+}
